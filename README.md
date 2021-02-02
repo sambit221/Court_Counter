@@ -1,11 +1,12 @@
 # Court_Counter
-Court Counter can be used to keep track of the scores during any kind of game (Basketball, Live Quiz, chess,etc.). 
+Court Counter app can be used to keep track of the scores during any kind of game (Basketball, Live Quiz, chess,etc.). 
 ### Description
 Court Counter app made using java.<br>
 -Court Counter can be used to keep track of the scores during any kind of game. It can also be used in live classroom quiz session to keep track of the scores of the teams. There is an option to reset the scores and start the next round of the game<br>
 
 ## Use The App
--> Download the given APK file into your mobile and start using it.
+-> Download the given APK file into your phone and start using it.
+-> Have Fun !!
 
 ### Tools and Languages Used:
 <img align="left" alt="java" width="26px" src="java.png" />
