@@ -24,7 +24,7 @@ Court Counter app made using java.<br>
 
 ### Output
 -> The user interface looks alike this:<br>
-<img alt="output"  src="output.png" />
+<img alt="outputScreen"  src="outputScreen.png" />
 
 ### Developed by:
 <a href="https://github.com/sambit221">Sambit Kumar Tripathy</a>
